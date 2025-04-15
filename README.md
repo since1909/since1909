@@ -1,8 +1,8 @@
 ### Welcom! This is JIWON's Github
 #### Work Experience
 
-- SPARROW (Oct. 2021 ~ )
-    Application Backend Developer (Junior)
+- SPARROW (Oct. 2021 ~ Apr. 2025)
+    Sparrow Cloud Service Backend Developer
 
 #### Education
 
