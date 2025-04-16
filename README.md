@@ -2,7 +2,7 @@
 #### Work Experience
 
 - SPARROW (Oct. 2021 ~ Apr. 2025)
-    Sparrow Cloud Service Backend Developer
+  - Sparrow Cloud Service Backend Developer (Java, Spring Boot)
 
 #### Education
 
